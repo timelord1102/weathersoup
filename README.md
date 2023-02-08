@@ -4,7 +4,7 @@ A weather data scraper using beautiful soup written in Python
 A work in progress
 
 Project Goal:
-  Create a weather scraper without using Selenium to be used in a larger feature-rich terminal-based calender program
+  Create a weather scraper without using Selenium or API to be used in a larger feature-rich terminal-based calender program
  
 What's Complete:
   Weather is scraped from weather.com and compiled/stored in a json file. 
