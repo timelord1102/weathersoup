@@ -8,7 +8,8 @@ Project Goal:
  
 What's Complete:
   Weather is scraped from weather.com and compiled/stored in a json file. 
-  Location is automatically retired via IP and can be mnaully set as well if needed
+  Location is automatically retired via IP and can be manually set as well if needed
+  Two methods to get locations weather.com URL: a) Direct (faster) if in US b) Indirect (slower) via explcit google search and link fetch
 
 To do:
   Seperate program into its own consolodated callable module for use in other projects
