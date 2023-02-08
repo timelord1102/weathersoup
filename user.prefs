@@ -1,0 +1,12 @@
+[USER INFO]
+country = US
+city = Troy
+region = New York
+postal = 12180
+
+[RESTART DATA]
+checkweather = True
+askforlocation = True
+locmanual = True
+locpermissions = True
+

@@ -1,0 +1,77 @@
+{
+  "weather_data": {
+    "currentDate": "2023-01-22",
+    "lastChecked": "12:25:14.220081",
+    "todayHigh": "45",
+    "todayLow": "33",
+    "todayRainChance": "59",
+    "currentTemp": "35",
+    "currentFeelsLike": "28",
+    "currentCondition": "Cloudy",
+    "nextDays": {
+      "day1": {
+        "date": "2023-01-23",
+        "high": "36",
+        "low": "29",
+        "condition": "Snow",
+        "precipChance": "95"
+      },
+      "day2": {
+        "date": "2023-01-24",
+        "high": "38",
+        "low": "22",
+        "condition": "Cloudy",
+        "precipChance": "5"
+      },
+      "day3": {
+        "date": "2023-01-25",
+        "high": "34",
+        "low": "31",
+        "condition": "PM Snow",
+        "precipChance": "75"
+      },
+      "day4": {
+        "date": "2023-01-26",
+        "high": "38",
+        "low": "20",
+        "condition": "AM Light Rain",
+        "precipChance": "65"
+      },
+      "day5": {
+        "date": "2023-01-27",
+        "high": "32",
+        "low": "21",
+        "condition": "Partly Cloudy",
+        "precipChance": "4"
+      },
+      "day6": {
+        "date": "2023-01-28",
+        "high": "39",
+        "low": "22",
+        "condition": "Mostly Cloudy",
+        "precipChance": "18"
+      },
+      "day7": {
+        "date": "2023-01-29",
+        "high": "33",
+        "low": "26",
+        "condition": "Mostly Cloudy",
+        "precipChance": "18"
+      },
+      "day8": {
+        "date": "2023-01-30",
+        "high": "33",
+        "low": "17",
+        "condition": "AM Snow Showers",
+        "precipChance": "40"
+      },
+      "day9": {
+        "date": "2023-01-31",
+        "high": "27",
+        "low": "16",
+        "condition": "Partly Cloudy",
+        "precipChance": "17"
+      }
+    }
+  }
+}
